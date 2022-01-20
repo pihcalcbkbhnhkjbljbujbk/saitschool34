@@ -1,0 +1,36 @@
+<html>
+<head>
+
+ <title> УСЛУГИ 34 ШКОЛЫ ИЖЕВСК
+ </title> 
+  <link rel="stylesheet" href="стили новые.css">
+ </head>
+<body>
+
+
+
+
+
+
+
+
+<ul class="menu-main">
+  <li><a href="свой проект.html">НА ГЛАВНУЮ</a></li>
+  <li><a href="личный кабинет.html">ЛИЧНЫЙ КАБИНЕТ</a></li>
+   <li><a href="о сайте.html">О САЙТЕ</a></li>
+      <li><a href="о сайте.html">НОВОСТИ ШКОЛЫ</a></li>
+
+</ul>
+
+
+
+
+<div class="textblock">
+
+ <h1> + РАЗМЕСТИТЬ ОБЪЯВЛЕНИЕ + </h1> 
+ <h1> МОИ ОБЪЯВЛЕНИЯ </h1>
+</div>
+<div class="pos">  </div>
+
+
+
